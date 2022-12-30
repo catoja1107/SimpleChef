@@ -2,7 +2,7 @@
   
 <img height="50%" width="50%" src="https://user-images.githubusercontent.com/9062530/210106405-33c30d6b-9f09-47a7-b763-21acc5df3fa0.png">
 
-  Let's play around with CyberChef a little bit. At first glance, we see the data range is from 1-f. It is base 16, AKA hexadecimal. Let's decode that.
+  Let's play around with CyberChef a little bit. At first glance, we see the data range is from 0-f. It is base 16, AKA hexadecimal. Let's decode that.
   
   <img src="https://user-images.githubusercontent.com/9062530/209875387-9102ccbd-2adf-4972-bfec-836ad20d326b.png">
 
